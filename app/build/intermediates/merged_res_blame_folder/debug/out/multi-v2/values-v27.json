@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hangsai/AndroidStudioProjects/W3DevCalling/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v27/values-v27.xml",
+            "outputFile": "C:\\apps\\WebRTC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v27\\values-v27.xml",
             "map": [
                 {
-                    "source": "/Users/hangsai/AndroidStudioProjects/W3DevCalling/app/src/main/res/values-v27/themes.xml",
+                    "source": "C:\\apps\\WebRTC\\app\\src\\main\\res\\values-v27\\themes.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "56",
+                        "startOffsets": "59",
                         "endLines": "18",
                         "endColumns": "12",
-                        "endOffsets": "943"
+                        "endOffsets": "961"
                     },
                     "to": {
                         "startLines": "2",
