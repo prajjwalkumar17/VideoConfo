@@ -26,7 +26,9 @@ import org.webrtc.VideoTrack;
 public class cameraRenderActivity extends AppCompatActivity {
 
     public static final String VIDEO_TRACK_ID = "ARDAMSv0";
+
     public static final int VIDEO_RESOLUTION_WIDTH = 1280;
+
     public static final int VIDEO_RESOLUTION_HEIGHT = 720;
     public static final int FPS = 30;
     EglBase rootEglBase;
